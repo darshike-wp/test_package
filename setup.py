@@ -2,8 +2,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="test_package",
-    version="0.1.0",
+    name="darshika_test_package",
+    version="0.0.3",
     author="Darshika Joshi",
     author_email="joshidarshika88@gmail.com",
     description="A package for Test parameters management",
